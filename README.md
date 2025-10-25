@@ -67,7 +67,7 @@ The magic ingredient:
 - Just type questions in plain English
 - The AI figures out what you mean
 
-## 📺 Demo Videos
+## Demo Videos
 
 See the system in action! Watch these quick demonstrations:
 
