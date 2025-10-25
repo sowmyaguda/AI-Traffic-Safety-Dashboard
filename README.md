@@ -67,6 +67,42 @@ The magic ingredient:
 - Just type questions in plain English
 - The AI figures out what you mean
 
+## 📺 Demo Videos
+
+See the system in action! Watch these quick demonstrations:
+
+### Video 1: Data Filtering & Map Operations
+**[Watch Demo →](https://mailmissouri-my.sharepoint.com/:v:/g/personal/sghmy_umsystem_edu/EeMNR7DXsM5FnNds-JyZzocBf7EGsTWYvqNUuWRuAAVThw)**
+
+Learn how to:
+- Load vehicle and crash data
+- Filter by road, time, and speed
+- Navigate the interactive map
+- Use natural language commands
+
+### Video 2: Plotting & Visualizations
+**[Watch Demo →](https://mailmissouri-my.sharepoint.com/:v:/g/personal/sghmy_umsystem_edu/EeMNR7DXsM5FnNds-JyZzocBf7EGsTWYvqNUuWRuAAVThw)**
+
+Explore the visualization features:
+- Speed distribution charts
+- Crash pattern analysis
+- Road-by-road comparisons
+- Interactive plotting capabilities
+
+### Video 3: AI-Powered Analysis
+**[Watch Demo →](https://mailmissouri-my.sharepoint.com/:v:/g/personal/sghmy_umsystem_edu/ET_N0XtdQwtMlwpurQ1BThoB9ho8EOXqqqn9APgtvdeYAQ)**
+
+See the AI features in action:
+- Crash hotspot clustering
+- Braking intensity analysis
+- Road safety scoring
+- Predictive crash analytics
+- Comprehensive insights generation
+
+**Tip:** These demos show real-world usage scenarios. Follow along to get started quickly!
+
+---
+
 ## How to Get Started
 
 ### What You Need
