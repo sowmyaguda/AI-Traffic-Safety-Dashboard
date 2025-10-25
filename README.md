@@ -72,7 +72,7 @@ The magic ingredient:
 See the system in action! Watch these quick demonstrations:
 
 ### Video 1: Data Filtering & Map Operations
-**[Watch Demo →](https://mailmissouri-my.sharepoint.com/:v:/g/personal/sghmy_umsystem_edu/EeMNR7DXsM5FnNds-JyZzocBf7EGsTWYvqNUuWRuAAVThw)**
+**[Watch Demo →](https://mailmissouri-my.sharepoint.com/:v:/g/personal/sghmy_umsystem_edu/EYsDPrMNdphFmLeUAeEIl2UB62uXshg7xhVrtNOFOTLjXA)**
 
 Learn how to:
 - Load vehicle and crash data
@@ -81,7 +81,7 @@ Learn how to:
 - Use natural language commands
 
 ### Video 2: Plotting & Visualizations
-**[Watch Demo →](https://mailmissouri-my.sharepoint.com/:v:/g/personal/sghmy_umsystem_edu/EeMNR7DXsM5FnNds-JyZzocBf7EGsTWYvqNUuWRuAAVThw)**
+**[Watch Demo →](https://mailmissouri-my.sharepoint.com/:v:/g/personal/sghmy_umsystem_edu/ET_N0XtdQwtMlwpurQ1BThoB9ho8EOXqqqn9APgtvdeYAQ)**
 
 Explore the visualization features:
 - Speed distribution charts
@@ -90,7 +90,7 @@ Explore the visualization features:
 - Interactive plotting capabilities
 
 ### Video 3: AI-Powered Analysis
-**[Watch Demo →](https://mailmissouri-my.sharepoint.com/:v:/g/personal/sghmy_umsystem_edu/ET_N0XtdQwtMlwpurQ1BThoB9ho8EOXqqqn9APgtvdeYAQ)**
+**[Watch Demo →](https://mailmissouri-my.sharepoint.com/:v:/g/personal/sghmy_umsystem_edu/EeMNR7DXsM5FnNds-JyZzocBf7EGsTWYvqNUuWRuAAVThw)**
 
 See the AI features in action:
 - Crash hotspot clustering
